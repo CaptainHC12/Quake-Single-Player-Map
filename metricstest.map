@@ -259,3 +259,34 @@
 "origin" "-1056 -2816 40"
 "angle" "0"
 }
+// entity 7
+{
+"classname" "item_armor1"
+"origin" "-1200 -2816 16"
+}
+// entity 8
+{
+"classname" "item_health"
+"origin" "320 -2752 16"
+}
+// entity 9
+{
+"classname" "item_health"
+"origin" "128 -2736 16"
+}
+// entity 10
+{
+"classname" "item_shells"
+"origin" "336 -2912 16"
+}
+// entity 11
+{
+"classname" "item_shells"
+"origin" "128 -2912 24"
+}
+// entity 12
+{
+"classname" "weapon_supershotgun"
+"origin" "192 -2816 16"
+"angle" "90"
+}
