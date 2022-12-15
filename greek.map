@@ -590,3 +590,43 @@
 "classname" "item_rockets"
 "origin" "-992 -5920 16"
 }
+// entity 22
+{
+"classname" "item_health"
+"origin" "-336 -5760 16"
+}
+// entity 23
+{
+"classname" "item_health"
+"origin" "-416 -6368 16"
+}
+// entity 24
+{
+"classname" "item_health"
+"origin" "-800 -5760 16"
+}
+// entity 25
+{
+"classname" "item_health"
+"origin" "-1216 -5776 16"
+}
+// entity 26
+{
+"classname" "item_health"
+"origin" "-704 -5680 16"
+}
+// entity 27
+{
+"classname" "item_health"
+"origin" "-1024 -6480 16"
+}
+// entity 28
+{
+"classname" "item_health"
+"origin" "-320 -6064 16"
+}
+// entity 29
+{
+"classname" "item_health"
+"origin" "-1216 -6032 16"
+}
