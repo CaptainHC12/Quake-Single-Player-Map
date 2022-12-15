@@ -652,7 +652,7 @@
 // entity 14
 {
 "classname" "monster_shambler"
-"origin" "-928 -6176 40"
+"origin" "-832 -6160 40"
 }
 // entity 15
 {
@@ -833,4 +833,9 @@
 {
 "classname" "item_armor2"
 "origin" "-2112 -3648 16"
+}
+// entity 50
+{
+"classname" "info_intermission"
+"origin" "-1016 -6184 24"
 }
