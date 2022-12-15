@@ -545,82 +545,81 @@
 }
 // entity 13
 {
-"classname" "item_armorInv"
-"origin" "1072 -3984 8"
-"angle" "270"
-}
-// entity 14
-{
 "classname" "monster_enforcer"
 "origin" "320 -4256 40"
 }
-// entity 15
+// entity 14
 {
 "classname" "monster_shambler"
 "origin" "-928 -6176 40"
 }
-// entity 16
+// entity 15
 {
 "classname" "weapon_rocketlauncher"
-"origin" "-432 -5856 16"
+"origin" "-448 -5280 16"
 }
-// entity 17
+// entity 16
 {
 "classname" "item_rockets"
 "origin" "-592 -5984 16"
 }
-// entity 18
+// entity 17
 {
 "classname" "item_rockets"
 "origin" "-592 -6400 16"
 }
-// entity 19
+// entity 18
 {
 "classname" "item_rockets"
 "origin" "-992 -6384 16"
 }
-// entity 20
+// entity 19
 {
 "classname" "item_rockets"
 "origin" "-992 -5920 16"
 }
-// entity 21
+// entity 20
 {
 "classname" "item_health"
 "origin" "-336 -5760 16"
 }
-// entity 22
+// entity 21
 {
 "classname" "item_health"
 "origin" "-368 -6384 16"
 }
-// entity 23
+// entity 22
 {
 "classname" "item_health"
 "origin" "-800 -5760 16"
 }
-// entity 24
+// entity 23
 {
 "classname" "item_health"
 "origin" "-1216 -5776 16"
 }
-// entity 25
+// entity 24
 {
 "classname" "item_health"
 "origin" "-704 -5680 16"
 }
-// entity 26
+// entity 25
 {
 "classname" "item_health"
 "origin" "-1024 -6480 16"
 }
-// entity 27
+// entity 26
 {
 "classname" "item_health"
 "origin" "-320 -6064 16"
 }
-// entity 28
+// entity 27
 {
 "classname" "item_health"
 "origin" "-1216 -6032 16"
+}
+// entity 28
+{
+"classname" "item_armor2"
+"origin" "976 -4048 24"
 }
