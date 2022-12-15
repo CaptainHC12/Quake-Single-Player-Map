@@ -256,6 +256,6 @@
 // entity 6
 {
 "classname" "monster_knight"
-"origin" "-944 -2816 40"
-"angle" "180"
+"origin" "-1056 -2816 40"
+"angle" "0"
 }
