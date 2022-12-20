@@ -869,3 +869,33 @@
 "classname" "light_fluorospark"
 "origin" "-488 -2440 104"
 }
+// entity 57
+{
+"classname" "light_fluorospark"
+"origin" "-360 -2616 104"
+}
+// entity 58
+{
+"classname" "light_fluorospark"
+"origin" "-360 -2712 104"
+}
+// entity 59
+{
+"classname" "light_fluorospark"
+"origin" "-488 -2616 104"
+}
+// entity 60
+{
+"classname" "light_fluorospark"
+"origin" "-488 -2712 104"
+}
+// entity 61
+{
+"classname" "light_fluorospark"
+"origin" "-360 -2856 104"
+}
+// entity 62
+{
+"classname" "light_fluorospark"
+"origin" "-488 -2856 104"
+}
