@@ -548,6 +548,24 @@
 ( -112 -1744 368 ) ( -111 -1744 368 ) ( -112 -1744 369 ) metalt1_2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 1344 -1744 368 ) ( 1344 -1744 369 ) ( 1344 -1743 368 ) metalt1_2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
+// brush 60
+{
+( -128 -2753 16 ) ( -128 -2753 17 ) ( -128 -2754 16 ) metalt1_2 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( 63 -2759 17 ) ( 63 -2759 18 ) ( 64 -2759 17 ) metalt1_2 [ -1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -125 -2753 16 ) ( -125 -2754 16 ) ( -124 -2753 16 ) metalt1_2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 63 -2782 288 ) ( 64 -2782 288 ) ( 63 -2783 288 ) metalt1_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -125 -2704 16 ) ( -124 -2704 16 ) ( -125 -2704 17 ) metalt1_2 [ 1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( 336 -2782 17 ) ( 336 -2783 17 ) ( 336 -2782 18 ) metalt1_2 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 61
+{
+( -128 -2673 16 ) ( -128 -2673 17 ) ( -128 -2674 16 ) metalt1_2 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( 63 -2679 17 ) ( 63 -2679 18 ) ( 64 -2679 17 ) metalt1_2 [ -1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -125 -2673 16 ) ( -125 -2674 16 ) ( -124 -2673 16 ) metalt1_2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 63 -2702 288 ) ( 64 -2702 288 ) ( 63 -2703 288 ) metalt1_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -125 -2624 16 ) ( -124 -2624 16 ) ( -125 -2624 17 ) metalt1_2 [ 1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( 336 -2702 17 ) ( 336 -2703 17 ) ( 336 -2702 18 ) metalt1_2 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
 }
 // entity 1
 {
@@ -898,4 +916,204 @@
 {
 "classname" "light_fluorospark"
 "origin" "-488 -2856 104"
+}
+// entity 63
+{
+"classname" "light_fluorospark"
+"origin" "-264 -2856 104"
+}
+// entity 64
+{
+"classname" "light_fluorospark"
+"origin" "-136 -2856 104"
+}
+// entity 65
+{
+"classname" "light_fluorospark"
+"origin" "-264 -2776 104"
+}
+// entity 66
+{
+"classname" "light_fluorospark"
+"origin" "-136 -2776 104"
+}
+// entity 67
+{
+"classname" "light_fluorospark"
+"origin" "-56 -2856 104"
+}
+// entity 68
+{
+"classname" "light_fluorospark"
+"origin" "-56 -2776 104"
+}
+// entity 69
+{
+"classname" "light_fluorospark"
+"origin" "72 -2776 104"
+}
+// entity 70
+{
+"classname" "light_fluorospark"
+"origin" "72 -2856 104"
+}
+// entity 71
+{
+"classname" "light_fluorospark"
+"origin" "152 -2856 104"
+}
+// entity 72
+{
+"classname" "light_fluorospark"
+"origin" "152 -2776 104"
+}
+// entity 73
+{
+"classname" "light_fluorospark"
+"origin" "280 -2776 104"
+}
+// entity 74
+{
+"classname" "light_fluorospark"
+"origin" "280 -2856 104"
+}
+// entity 75
+{
+"classname" "light_fluorospark"
+"origin" "408 -2856 104"
+}
+// entity 76
+{
+"classname" "light_fluorospark"
+"origin" "408 -2776 104"
+}
+// entity 77
+{
+"classname" "light_fluorospark"
+"origin" "536 -2776 104"
+}
+// entity 78
+{
+"classname" "light_fluorospark"
+"origin" "536 -2856 104"
+}
+// entity 79
+{
+"classname" "light_fluorospark"
+"origin" "584 -2920 104"
+}
+// entity 80
+{
+"classname" "light_fluorospark"
+"origin" "584 -2840 104"
+}
+// entity 81
+{
+"classname" "light_fluorospark"
+"origin" "712 -2840 104"
+}
+// entity 82
+{
+"classname" "light_fluorospark"
+"origin" "712 -2920 104"
+}
+// entity 83
+{
+"classname" "light_fluorospark"
+"origin" "584 -2760 104"
+}
+// entity 84
+{
+"classname" "light_fluorospark"
+"origin" "584 -2680 104"
+}
+// entity 85
+{
+"classname" "light_fluorospark"
+"origin" "712 -2680 104"
+}
+// entity 86
+{
+"classname" "light_fluorospark"
+"origin" "712 -2760 104"
+}
+// entity 87
+{
+"classname" "light_fluorospark"
+"origin" "776 -2760 104"
+}
+// entity 88
+{
+"classname" "light_fluorospark"
+"origin" "776 -2680 104"
+}
+// entity 89
+{
+"classname" "light_fluorospark"
+"origin" "904 -2680 104"
+}
+// entity 90
+{
+"classname" "light_fluorospark"
+"origin" "904 -2760 104"
+}
+// entity 91
+{
+"classname" "light_fluorospark"
+"origin" "776 -2904 104"
+}
+// entity 92
+{
+"classname" "light_fluorospark"
+"origin" "776 -2824 104"
+}
+// entity 93
+{
+"classname" "light_fluorospark"
+"origin" "904 -2824 104"
+}
+// entity 94
+{
+"classname" "light_fluorospark"
+"origin" "904 -2904 104"
+}
+// entity 95
+{
+"classname" "light_fluorospark"
+"origin" "968 -2904 104"
+}
+// entity 96
+{
+"classname" "light_fluorospark"
+"origin" "968 -2824 104"
+}
+// entity 97
+{
+"classname" "light_fluorospark"
+"origin" "1096 -2824 104"
+}
+// entity 98
+{
+"classname" "light_fluorospark"
+"origin" "1096 -2904 104"
+}
+// entity 99
+{
+"classname" "light_fluorospark"
+"origin" "968 -2760 104"
+}
+// entity 100
+{
+"classname" "light_fluorospark"
+"origin" "968 -2680 104"
+}
+// entity 101
+{
+"classname" "light_fluorospark"
+"origin" "1096 -2680 104"
+}
+// entity 102
+{
+"classname" "light_fluorospark"
+"origin" "1096 -2760 104"
 }
