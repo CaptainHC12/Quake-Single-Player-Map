@@ -4153,3 +4153,53 @@
 "classname" "light_fluorospark"
 "origin" "-2088 -3768 200"
 }
+// entity 658
+{
+"classname" "light_fluorospark"
+"origin" "-1720 -2760 104"
+}
+// entity 659
+{
+"classname" "light_fluorospark"
+"origin" "-600 -6488 104"
+}
+// entity 660
+{
+"classname" "light_fluorospark"
+"origin" "-664 -6488 104"
+}
+// entity 661
+{
+"classname" "light_fluorospark"
+"origin" "-776 -6488 104"
+}
+// entity 662
+{
+"classname" "light_fluorospark"
+"origin" "-840 -6488 104"
+}
+// entity 663
+{
+"classname" "light_fluorospark"
+"origin" "-1448 -2760 104"
+}
+// entity 664
+{
+"classname" "light_fluorospark"
+"origin" "-328 -6488 104"
+}
+// entity 665
+{
+"classname" "light_fluorospark"
+"origin" "-392 -6488 104"
+}
+// entity 666
+{
+"classname" "light_fluorospark"
+"origin" "-504 -6488 104"
+}
+// entity 667
+{
+"classname" "light_fluorospark"
+"origin" "-568 -6488 104"
+}
