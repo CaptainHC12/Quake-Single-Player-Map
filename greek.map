@@ -638,6 +638,195 @@
 ( -1904 -5840 16 ) ( -1903 -5840 16 ) ( -1904 -5840 17 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
 ( -704 -5840 16 ) ( -704 -5840 17 ) ( -704 -5839 16 ) metal5_4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
+// brush 70
+{
+( -1840 -4989 16 ) ( -1840 -4988 16 ) ( -1840 -4989 17 ) metalt1_2 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -958 -6448 16 ) ( -958 -6448 17 ) ( -957 -6448 16 ) metalt1_2 [ -1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -958 -4989 0 ) ( -957 -4989 0 ) ( -958 -4988 0 ) metalt1_2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -929 -4801 336 ) ( -929 -4800 336 ) ( -928 -4801 336 ) metalt1_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -929 -5264 17 ) ( -928 -5264 17 ) ( -929 -5264 18 ) metalt1_2 [ 1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1264 -4801 17 ) ( -1264 -4801 18 ) ( -1264 -4800 17 ) metalt1_2 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 71
+{
+( -1840 -5069 16 ) ( -1840 -5068 16 ) ( -1840 -5069 17 ) metalt1_2 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -958 -6528 16 ) ( -958 -6528 17 ) ( -957 -6528 16 ) metalt1_2 [ -1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -958 -5069 0 ) ( -957 -5069 0 ) ( -958 -5068 0 ) metalt1_2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -929 -4881 336 ) ( -929 -4880 336 ) ( -928 -4881 336 ) metalt1_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -929 -5344 17 ) ( -928 -5344 17 ) ( -929 -5344 18 ) metalt1_2 [ 1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1264 -4881 17 ) ( -1264 -4881 18 ) ( -1264 -4880 17 ) metalt1_2 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 72
+{
+( -1840 -5149 16 ) ( -1840 -5148 16 ) ( -1840 -5149 17 ) metalt1_2 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -958 -6608 16 ) ( -958 -6608 17 ) ( -957 -6608 16 ) metalt1_2 [ -1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -958 -5149 0 ) ( -957 -5149 0 ) ( -958 -5148 0 ) metalt1_2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -929 -4961 336 ) ( -929 -4960 336 ) ( -928 -4961 336 ) metalt1_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -929 -5424 17 ) ( -928 -5424 17 ) ( -929 -5424 18 ) metalt1_2 [ 1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1264 -4961 17 ) ( -1264 -4961 18 ) ( -1264 -4960 17 ) metalt1_2 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 73
+{
+( -2208 -3056 16 ) ( -2208 -3056 17 ) ( -2208 -3057 16 ) metal5_4 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1008 -2992 16 ) ( -1009 -2992 16 ) ( -1008 -2992 17 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -896 -2896 0 ) ( -897 -2896 0 ) ( -896 -2897 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1008 -3056 16 ) ( -1008 -3057 16 ) ( -1009 -3056 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -896 -2656 0 ) ( -896 -2656 1 ) ( -897 -2656 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1728 -2896 0 ) ( -1728 -2897 0 ) ( -1728 -2896 1 ) metal5_4 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 74
+{
+( -2384 -3056 16 ) ( -2384 -3056 17 ) ( -2384 -3057 16 ) metal5_4 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1184 -2992 16 ) ( -1185 -2992 16 ) ( -1184 -2992 17 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1072 -2896 0 ) ( -1073 -2896 0 ) ( -1072 -2897 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1184 -3056 16 ) ( -1184 -3057 16 ) ( -1185 -3056 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1072 -2656 0 ) ( -1072 -2656 1 ) ( -1073 -2656 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1904 -2896 0 ) ( -1904 -2897 0 ) ( -1904 -2896 1 ) metal5_4 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 75
+{
+( -2576 -3056 16 ) ( -2576 -3056 17 ) ( -2576 -3057 16 ) metal5_4 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1376 -2992 16 ) ( -1377 -2992 16 ) ( -1376 -2992 17 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1264 -2896 0 ) ( -1265 -2896 0 ) ( -1264 -2897 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1376 -3056 16 ) ( -1376 -3057 16 ) ( -1377 -3056 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1264 -2656 0 ) ( -1264 -2656 1 ) ( -1265 -2656 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -2096 -2896 0 ) ( -2096 -2897 0 ) ( -2096 -2896 1 ) metal5_4 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 76
+{
+( -2768 -3056 16 ) ( -2768 -3056 17 ) ( -2768 -3057 16 ) metal5_4 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1568 -2992 16 ) ( -1569 -2992 16 ) ( -1568 -2992 17 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1456 -2896 0 ) ( -1457 -2896 0 ) ( -1456 -2897 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1568 -3056 16 ) ( -1568 -3057 16 ) ( -1569 -3056 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1456 -2656 0 ) ( -1456 -2656 1 ) ( -1457 -2656 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -2288 -2896 0 ) ( -2288 -2897 0 ) ( -2288 -2896 1 ) metal5_4 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 77
+{
+( -3008 -3056 16 ) ( -3008 -3056 17 ) ( -3008 -3057 16 ) metal5_4 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1808 -2992 16 ) ( -1809 -2992 16 ) ( -1808 -2992 17 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1696 -2896 0 ) ( -1697 -2896 0 ) ( -1696 -2897 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1808 -3056 16 ) ( -1808 -3057 16 ) ( -1809 -3056 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1696 -2656 0 ) ( -1696 -2656 1 ) ( -1697 -2656 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -2528 -2896 0 ) ( -2528 -2897 0 ) ( -2528 -2896 1 ) metal5_4 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 78
+{
+( -3168 -3152 16 ) ( -3168 -3152 17 ) ( -3168 -3153 16 ) metal5_4 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1968 -3088 16 ) ( -1969 -3088 16 ) ( -1968 -3088 17 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1856 -2992 0 ) ( -1857 -2992 0 ) ( -1856 -2993 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1968 -3152 16 ) ( -1968 -3153 16 ) ( -1969 -3152 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1856 -2752 0 ) ( -1856 -2752 1 ) ( -1857 -2752 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -2688 -2992 0 ) ( -2688 -2993 0 ) ( -2688 -2992 1 ) metal5_4 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 79
+{
+( -3184 -3008 16 ) ( -3184 -3008 17 ) ( -3184 -3009 16 ) metal5_4 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1984 -2944 16 ) ( -1985 -2944 16 ) ( -1984 -2944 17 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1872 -2848 0 ) ( -1873 -2848 0 ) ( -1872 -2849 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1984 -3008 16 ) ( -1984 -3009 16 ) ( -1985 -3008 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1872 -2608 0 ) ( -1872 -2608 1 ) ( -1873 -2608 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -2704 -2848 0 ) ( -2704 -2849 0 ) ( -2704 -2848 1 ) metal5_4 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 80
+{
+( -3232 -3008 16 ) ( -3232 -3008 17 ) ( -3232 -3009 16 ) metal5_4 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -2032 -2944 16 ) ( -2033 -2944 16 ) ( -2032 -2944 17 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1920 -2848 0 ) ( -1921 -2848 0 ) ( -1920 -2849 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -2032 -3008 16 ) ( -2032 -3009 16 ) ( -2033 -3008 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1920 -2608 0 ) ( -1920 -2608 1 ) ( -1921 -2608 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -2752 -2848 0 ) ( -2752 -2849 0 ) ( -2752 -2848 1 ) metal5_4 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 81
+{
+( -368 -4224 0 ) ( -368 -4223 0 ) ( -368 -4224 1 ) metal5_4 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -336 -4464 0 ) ( -336 -4464 1 ) ( -335 -4464 0 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -336 -4224 0 ) ( -335 -4224 0 ) ( -336 -4223 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -224 -4064 16 ) ( -224 -4063 16 ) ( -223 -4064 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -224 -4064 16 ) ( -223 -4064 16 ) ( -224 -4064 17 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( 976 -4064 16 ) ( 976 -4064 17 ) ( 976 -4063 16 ) metal5_4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 82
+{
+( -576 -4224 0 ) ( -576 -4223 0 ) ( -576 -4224 1 ) metal5_4 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -544 -4464 0 ) ( -544 -4464 1 ) ( -543 -4464 0 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -544 -4224 0 ) ( -543 -4224 0 ) ( -544 -4223 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -432 -4064 16 ) ( -432 -4063 16 ) ( -431 -4064 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -432 -4064 16 ) ( -431 -4064 16 ) ( -432 -4064 17 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( 768 -4064 16 ) ( 768 -4064 17 ) ( 768 -4063 16 ) metal5_4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 83
+{
+( -816 -4224 0 ) ( -816 -4223 0 ) ( -816 -4224 1 ) metal5_4 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -784 -4464 0 ) ( -784 -4464 1 ) ( -783 -4464 0 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -784 -4224 0 ) ( -783 -4224 0 ) ( -784 -4223 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -672 -4064 16 ) ( -672 -4063 16 ) ( -671 -4064 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -672 -4064 16 ) ( -671 -4064 16 ) ( -672 -4064 17 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( 528 -4064 16 ) ( 528 -4064 17 ) ( 528 -4063 16 ) metal5_4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 84
+{
+( -1088 -4224 0 ) ( -1088 -4223 0 ) ( -1088 -4224 1 ) metal5_4 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -1056 -4464 0 ) ( -1056 -4464 1 ) ( -1055 -4464 0 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1056 -4224 0 ) ( -1055 -4224 0 ) ( -1056 -4223 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -944 -4064 16 ) ( -944 -4063 16 ) ( -943 -4064 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -944 -4064 16 ) ( -943 -4064 16 ) ( -944 -4064 17 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( 256 -4064 16 ) ( 256 -4064 17 ) ( 256 -4063 16 ) metal5_4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 85
+{
+( -1040 -4352 0 ) ( -1040 -4351 0 ) ( -1040 -4352 1 ) metal5_4 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -1008 -4592 0 ) ( -1008 -4592 1 ) ( -1007 -4592 0 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1008 -4352 0 ) ( -1007 -4352 0 ) ( -1008 -4351 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -896 -4192 16 ) ( -896 -4191 16 ) ( -895 -4192 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -896 -4192 16 ) ( -895 -4192 16 ) ( -896 -4192 17 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( 304 -4192 16 ) ( 304 -4192 17 ) ( 304 -4191 16 ) metal5_4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 86
+{
+( -1376 -4304 0 ) ( -1376 -4303 0 ) ( -1376 -4304 1 ) metal5_4 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -1344 -4544 0 ) ( -1344 -4544 1 ) ( -1343 -4544 0 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1344 -4304 0 ) ( -1343 -4304 0 ) ( -1344 -4303 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1232 -4144 16 ) ( -1232 -4143 16 ) ( -1231 -4144 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1232 -4144 16 ) ( -1231 -4144 16 ) ( -1232 -4144 17 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -32 -4144 16 ) ( -32 -4144 17 ) ( -32 -4143 16 ) metal5_4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 87
+{
+( -1616 -4304 0 ) ( -1616 -4303 0 ) ( -1616 -4304 1 ) metal5_4 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -1584 -4544 0 ) ( -1584 -4544 1 ) ( -1583 -4544 0 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -1584 -4304 0 ) ( -1583 -4304 0 ) ( -1584 -4303 0 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1472 -4144 16 ) ( -1472 -4143 16 ) ( -1471 -4144 16 ) metal5_4 [ 1.0000000000000002 0 0 0 ] [ 0 1.0000000000000002 0 0 ] 0 1 1
+( -1472 -4144 16 ) ( -1471 -4144 16 ) ( -1472 -4144 17 ) metal5_4 [ -1.0000000000000002 0 0 0 ] [ 0 0 1.0000000000000002 0 ] 0 1 1
+( -272 -4144 16 ) ( -272 -4144 17 ) ( -272 -4143 16 ) metal5_4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 88
+{
+( -1840 -4256 272 ) ( -1840 -4192 112 ) ( -1840 -4192 272 ) metalt1_2 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1872 -4256 272 ) ( -1760 -4256 112 ) ( -1872 -4256 112 ) metalt1_2 [ -1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1872 -4256 112 ) ( -1760 -4192 112 ) ( -1872 -4192 112 ) metalt1_2 [ 1.0000000000000002 0 0 0 ] [ 0 -1.0000000000000002 0 0 ] 0 1 1
+( -1872 -4256 272 ) ( -1760 -4192 272 ) ( -1760 -4256 272 ) metalt1_2 [ -1.0000000000000002 0 0 0 ] [ 0 -1.0000000000000002 0 0 ] 0 1 1
+( -1872 -4192 272 ) ( -1760 -4192 112 ) ( -1760 -4192 272 ) metalt1_2 [ 1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1760 -4192 272 ) ( -1760 -4256 112 ) ( -1760 -4256 272 ) metalt1_2 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 89
+{
+( -1840 -4256 272 ) ( -1840 -4192 112 ) ( -1840 -4192 272 ) metalt1_2 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1872 -4256 272 ) ( -1760 -4256 112 ) ( -1872 -4256 112 ) metalt1_2 [ -1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1872 -4256 112 ) ( -1760 -4192 112 ) ( -1872 -4192 112 ) metalt1_2 [ 1.0000000000000002 0 0 0 ] [ 0 -1.0000000000000002 0 0 ] 0 1 1
+( -1872 -4256 272 ) ( -1760 -4192 272 ) ( -1760 -4256 272 ) metalt1_2 [ -1.0000000000000002 0 0 0 ] [ 0 -1.0000000000000002 0 0 ] 0 1 1
+( -1872 -4192 272 ) ( -1760 -4192 112 ) ( -1760 -4192 272 ) metalt1_2 [ 1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1760 -4192 272 ) ( -1760 -4256 112 ) ( -1760 -4256 272 ) metalt1_2 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
+// brush 90
+{
+( -1824 -4064 272 ) ( -1824 -4000 112 ) ( -1824 -4000 272 ) metalt1_2 [ 0 1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1856 -4064 272 ) ( -1744 -4064 112 ) ( -1856 -4064 112 ) metalt1_2 [ -1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1856 -4064 112 ) ( -1744 -4000 112 ) ( -1856 -4000 112 ) metalt1_2 [ 1.0000000000000002 0 0 0 ] [ 0 -1.0000000000000002 0 0 ] 0 1 1
+( -1856 -4064 272 ) ( -1744 -4000 272 ) ( -1744 -4064 272 ) metalt1_2 [ -1.0000000000000002 0 0 0 ] [ 0 -1.0000000000000002 0 0 ] 0 1 1
+( -1856 -4000 272 ) ( -1744 -4000 112 ) ( -1744 -4000 272 ) metalt1_2 [ 1.0000000000000002 0 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+( -1744 -4000 272 ) ( -1744 -4064 112 ) ( -1744 -4064 272 ) metalt1_2 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
+}
 }
 // entity 1
 {
@@ -1612,7 +1801,7 @@
 // entity 187
 {
 "classname" "light_fluorospark"
-"origin" "24 -4248 104"
+"origin" "24 -4248 232"
 }
 // entity 188
 {
@@ -1637,7 +1826,7 @@
 // entity 192
 {
 "classname" "light_fluorospark"
-"origin" "152 -4392 104"
+"origin" "152 -4392 232"
 }
 // entity 193
 {
@@ -1647,7 +1836,7 @@
 // entity 194
 {
 "classname" "light_fluorospark"
-"origin" "24 -4312 104"
+"origin" "24 -4312 232"
 }
 // entity 195
 {
@@ -2738,4 +2927,1229 @@
 {
 "classname" "light_fluorospark"
 "origin" "-920 -6488 104"
+}
+// entity 413
+{
+"classname" "light_fluorospark"
+"origin" "872 -2728 104"
+}
+// entity 414
+{
+"classname" "light_fluorospark"
+"origin" "936 -2728 104"
+}
+// entity 415
+{
+"classname" "light_fluorospark"
+"origin" "1064 -2728 104"
+}
+// entity 416
+{
+"classname" "light_fluorospark"
+"origin" "872 -2808 104"
+}
+// entity 417
+{
+"classname" "light_fluorospark"
+"origin" "936 -2808 104"
+}
+// entity 418
+{
+"classname" "light_fluorospark"
+"origin" "1064 -2808 104"
+}
+// entity 419
+{
+"classname" "light_fluorospark"
+"origin" "872 -2888 104"
+}
+// entity 420
+{
+"classname" "light_fluorospark"
+"origin" "936 -2888 104"
+}
+// entity 421
+{
+"classname" "light_fluorospark"
+"origin" "1064 -2888 104"
+}
+// entity 422
+{
+"classname" "light_fluorospark"
+"origin" "-2008 -3960 104"
+}
+// entity 423
+{
+"classname" "light_fluorospark"
+"origin" "-2008 -3880 104"
+}
+// entity 424
+{
+"classname" "light_fluorospark"
+"origin" "-2008 -3816 104"
+}
+// entity 425
+{
+"classname" "light_fluorospark"
+"origin" "-2008 -3736 104"
+}
+// entity 426
+{
+"classname" "light_fluorospark"
+"origin" "-1944 -3736 104"
+}
+// entity 427
+{
+"classname" "light_fluorospark"
+"origin" "-1944 -3816 104"
+}
+// entity 428
+{
+"classname" "light_fluorospark"
+"origin" "-1944 -3880 104"
+}
+// entity 429
+{
+"classname" "light_fluorospark"
+"origin" "-1944 -3960 104"
+}
+// entity 430
+{
+"classname" "light_fluorospark"
+"origin" "-1944 -4088 104"
+}
+// entity 431
+{
+"classname" "light_fluorospark"
+"origin" "-1880 -4088 104"
+}
+// entity 432
+{
+"classname" "light_fluorospark"
+"origin" "-2136 -4296 104"
+}
+// entity 433
+{
+"classname" "light_fluorospark"
+"origin" "-2136 -4216 104"
+}
+// entity 434
+{
+"classname" "light_fluorospark"
+"origin" "-2136 -4152 104"
+}
+// entity 435
+{
+"classname" "light_fluorospark"
+"origin" "-2136 -4072 104"
+}
+// entity 436
+{
+"classname" "light_fluorospark"
+"origin" "-2072 -4072 104"
+}
+// entity 437
+{
+"classname" "light_fluorospark"
+"origin" "-2072 -4152 104"
+}
+// entity 438
+{
+"classname" "light_fluorospark"
+"origin" "-2072 -4216 104"
+}
+// entity 439
+{
+"classname" "light_fluorospark"
+"origin" "-2072 -4296 104"
+}
+// entity 440
+{
+"classname" "light_fluorospark"
+"origin" "-2072 -4424 104"
+}
+// entity 441
+{
+"classname" "light_fluorospark"
+"origin" "-2008 -4424 104"
+}
+// entity 442
+{
+"classname" "light_fluorospark"
+"origin" "-1976 -4296 104"
+}
+// entity 443
+{
+"classname" "light_fluorospark"
+"origin" "-1976 -4216 104"
+}
+// entity 444
+{
+"classname" "light_fluorospark"
+"origin" "-1976 -4152 104"
+}
+// entity 445
+{
+"classname" "light_fluorospark"
+"origin" "-1976 -4072 104"
+}
+// entity 446
+{
+"classname" "light_fluorospark"
+"origin" "-1912 -4072 104"
+}
+// entity 447
+{
+"classname" "light_fluorospark"
+"origin" "-1912 -4152 104"
+}
+// entity 448
+{
+"classname" "light_fluorospark"
+"origin" "-1912 -4216 104"
+}
+// entity 449
+{
+"classname" "light_fluorospark"
+"origin" "-1912 -4296 104"
+}
+// entity 450
+{
+"classname" "light_fluorospark"
+"origin" "-1912 -4424 104"
+}
+// entity 451
+{
+"classname" "light_fluorospark"
+"origin" "-1848 -4424 104"
+}
+// entity 452
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3960 104"
+}
+// entity 453
+{
+"classname" "light_fluorospark"
+"origin" "-2040 -3960 104"
+}
+// entity 454
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3864 104"
+}
+// entity 455
+{
+"classname" "light_fluorospark"
+"origin" "-2040 -3864 104"
+}
+// entity 456
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3768 104"
+}
+// entity 457
+{
+"classname" "light_fluorospark"
+"origin" "-2040 -3768 104"
+}
+// entity 458
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3720 104"
+}
+// entity 459
+{
+"classname" "light_fluorospark"
+"origin" "-2040 -3720 104"
+}
+// entity 460
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3640 104"
+}
+// entity 461
+{
+"classname" "light_fluorospark"
+"origin" "-2040 -3640 104"
+}
+// entity 462
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -3640 104"
+}
+// entity 463
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -3640 104"
+}
+// entity 464
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -3544 104"
+}
+// entity 465
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -3544 104"
+}
+// entity 466
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -3528 104"
+}
+// entity 467
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -3528 104"
+}
+// entity 468
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3528 104"
+}
+// entity 469
+{
+"classname" "light_fluorospark"
+"origin" "-2040 -3528 104"
+}
+// entity 470
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3464 104"
+}
+// entity 471
+{
+"classname" "light_fluorospark"
+"origin" "-2040 -3464 104"
+}
+// entity 472
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -3464 104"
+}
+// entity 473
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -3464 104"
+}
+// entity 474
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -3336 104"
+}
+// entity 475
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -3336 104"
+}
+// entity 476
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3336 104"
+}
+// entity 477
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -3256 104"
+}
+// entity 478
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -3256 104"
+}
+// entity 479
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3256 104"
+}
+// entity 480
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -3160 104"
+}
+// entity 481
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -3160 104"
+}
+// entity 482
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3160 104"
+}
+// entity 483
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -3064 104"
+}
+// entity 484
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -3064 104"
+}
+// entity 485
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3064 104"
+}
+// entity 486
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -2968 104"
+}
+// entity 487
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -2968 104"
+}
+// entity 488
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -2968 104"
+}
+// entity 489
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -2888 104"
+}
+// entity 490
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -2888 104"
+}
+// entity 491
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -2888 104"
+}
+// entity 492
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -2824 104"
+}
+// entity 493
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -2824 104"
+}
+// entity 494
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -2824 104"
+}
+// entity 495
+{
+"classname" "light_fluorospark"
+"origin" "-1752 -2824 104"
+}
+// entity 496
+{
+"classname" "light_fluorospark"
+"origin" "-1688 -2824 104"
+}
+// entity 497
+{
+"classname" "light_fluorospark"
+"origin" "-1864 -2824 104"
+}
+// entity 498
+{
+"classname" "light_fluorospark"
+"origin" "-1752 -2760 104"
+}
+// entity 499
+{
+"classname" "light_fluorospark"
+"origin" "-1688 -2760 104"
+}
+// entity 500
+{
+"classname" "light_fluorospark"
+"origin" "-1864 -2760 104"
+}
+// entity 501
+{
+"classname" "light_fluorospark"
+"origin" "-1976 -2760 104"
+}
+// entity 502
+{
+"classname" "light_fluorospark"
+"origin" "-1912 -2760 104"
+}
+// entity 503
+{
+"classname" "light_fluorospark"
+"origin" "-2088 -2760 104"
+}
+// entity 504
+{
+"classname" "light_fluorospark"
+"origin" "-1768 -2888 104"
+}
+// entity 505
+{
+"classname" "light_fluorospark"
+"origin" "-1704 -2888 104"
+}
+// entity 506
+{
+"classname" "light_fluorospark"
+"origin" "-1880 -2888 104"
+}
+// entity 507
+{
+"classname" "light_fluorospark"
+"origin" "-1768 -2936 104"
+}
+// entity 508
+{
+"classname" "light_fluorospark"
+"origin" "-1704 -2936 104"
+}
+// entity 509
+{
+"classname" "light_fluorospark"
+"origin" "-1880 -2936 104"
+}
+// entity 510
+{
+"classname" "light_fluorospark"
+"origin" "-2056 -2968 104"
+}
+// entity 511
+{
+"classname" "light_fluorospark"
+"origin" "-2056 -3064 104"
+}
+// entity 512
+{
+"classname" "light_fluorospark"
+"origin" "-2056 -3160 104"
+}
+// entity 513
+{
+"classname" "light_fluorospark"
+"origin" "-2056 -3256 104"
+}
+// entity 514
+{
+"classname" "light_fluorospark"
+"origin" "-2056 -3336 104"
+}
+// entity 515
+{
+"classname" "light_fluorospark"
+"origin" "-2056 -2824 104"
+}
+// entity 516
+{
+"classname" "light_fluorospark"
+"origin" "-2040 -2760 104"
+}
+// entity 517
+{
+"classname" "light_fluorospark"
+"origin" "-2056 -2888 104"
+}
+// entity 518
+{
+"classname" "light_fluorospark"
+"origin" "-1800 -2712 104"
+}
+// entity 519
+{
+"classname" "light_fluorospark"
+"origin" "-1688 -2712 104"
+}
+// entity 520
+{
+"classname" "light_fluorospark"
+"origin" "-1912 -2712 104"
+}
+// entity 521
+{
+"classname" "light_fluorospark"
+"origin" "-2008 -2712 104"
+}
+// entity 522
+{
+"classname" "light_fluorospark"
+"origin" "-616 -2776 104"
+}
+// entity 523
+{
+"classname" "light_fluorospark"
+"origin" "-488 -2776 104"
+}
+// entity 524
+{
+"classname" "light_fluorospark"
+"origin" "-488 -2856 104"
+}
+// entity 525
+{
+"classname" "light_fluorospark"
+"origin" "-616 -2856 104"
+}
+// entity 526
+{
+"classname" "light_fluorospark"
+"origin" "-712 -2856 104"
+}
+// entity 527
+{
+"classname" "light_fluorospark"
+"origin" "-840 -2856 104"
+}
+// entity 528
+{
+"classname" "light_fluorospark"
+"origin" "-792 -2776 104"
+}
+// entity 529
+{
+"classname" "light_fluorospark"
+"origin" "-664 -2776 104"
+}
+// entity 530
+{
+"classname" "light_fluorospark"
+"origin" "-664 -2856 104"
+}
+// entity 531
+{
+"classname" "light_fluorospark"
+"origin" "-792 -2856 104"
+}
+// entity 532
+{
+"classname" "light_fluorospark"
+"origin" "-888 -2856 104"
+}
+// entity 533
+{
+"classname" "light_fluorospark"
+"origin" "-1016 -2856 104"
+}
+// entity 534
+{
+"classname" "light_fluorospark"
+"origin" "-984 -2776 104"
+}
+// entity 535
+{
+"classname" "light_fluorospark"
+"origin" "-856 -2776 104"
+}
+// entity 536
+{
+"classname" "light_fluorospark"
+"origin" "-856 -2856 104"
+}
+// entity 537
+{
+"classname" "light_fluorospark"
+"origin" "-984 -2856 104"
+}
+// entity 538
+{
+"classname" "light_fluorospark"
+"origin" "-1080 -2856 104"
+}
+// entity 539
+{
+"classname" "light_fluorospark"
+"origin" "-1208 -2856 104"
+}
+// entity 540
+{
+"classname" "light_fluorospark"
+"origin" "-1176 -2776 104"
+}
+// entity 541
+{
+"classname" "light_fluorospark"
+"origin" "-1048 -2776 104"
+}
+// entity 542
+{
+"classname" "light_fluorospark"
+"origin" "-1048 -2856 104"
+}
+// entity 543
+{
+"classname" "light_fluorospark"
+"origin" "-1176 -2856 104"
+}
+// entity 544
+{
+"classname" "light_fluorospark"
+"origin" "-1272 -2856 104"
+}
+// entity 545
+{
+"classname" "light_fluorospark"
+"origin" "-1400 -2856 104"
+}
+// entity 546
+{
+"classname" "light_fluorospark"
+"origin" "-1416 -2776 104"
+}
+// entity 547
+{
+"classname" "light_fluorospark"
+"origin" "-1288 -2776 104"
+}
+// entity 548
+{
+"classname" "light_fluorospark"
+"origin" "-1288 -2856 104"
+}
+// entity 549
+{
+"classname" "light_fluorospark"
+"origin" "-1416 -2856 104"
+}
+// entity 550
+{
+"classname" "light_fluorospark"
+"origin" "-1512 -2856 104"
+}
+// entity 551
+{
+"classname" "light_fluorospark"
+"origin" "-1640 -2856 104"
+}
+// entity 552
+{
+"classname" "light_fluorospark"
+"origin" "-1576 -2872 104"
+}
+// entity 553
+{
+"classname" "light_fluorospark"
+"origin" "-1448 -2872 104"
+}
+// entity 554
+{
+"classname" "light_fluorospark"
+"origin" "-1448 -2952 104"
+}
+// entity 555
+{
+"classname" "light_fluorospark"
+"origin" "-1576 -2952 104"
+}
+// entity 556
+{
+"classname" "light_fluorospark"
+"origin" "-1672 -2952 104"
+}
+// entity 557
+{
+"classname" "light_fluorospark"
+"origin" "-1800 -2952 104"
+}
+// entity 558
+{
+"classname" "light_fluorospark"
+"origin" "-1592 -2728 104"
+}
+// entity 559
+{
+"classname" "light_fluorospark"
+"origin" "-1464 -2728 104"
+}
+// entity 560
+{
+"classname" "light_fluorospark"
+"origin" "-1464 -2808 104"
+}
+// entity 561
+{
+"classname" "light_fluorospark"
+"origin" "-1592 -2808 104"
+}
+// entity 562
+{
+"classname" "light_fluorospark"
+"origin" "-1688 -2808 104"
+}
+// entity 563
+{
+"classname" "light_fluorospark"
+"origin" "-1816 -2808 104"
+}
+// entity 564
+{
+"classname" "light_fluorospark"
+"origin" "-1640 -2728 104"
+}
+// entity 565
+{
+"classname" "light_fluorospark"
+"origin" "-1512 -2728 104"
+}
+// entity 566
+{
+"classname" "light_fluorospark"
+"origin" "-1512 -2808 104"
+}
+// entity 567
+{
+"classname" "light_fluorospark"
+"origin" "-1640 -2808 104"
+}
+// entity 568
+{
+"classname" "light_fluorospark"
+"origin" "-1736 -2808 104"
+}
+// entity 569
+{
+"classname" "light_fluorospark"
+"origin" "-1864 -2808 104"
+}
+// entity 570
+{
+"classname" "light_fluorospark"
+"origin" "152 -4264 232"
+}
+// entity 571
+{
+"classname" "light_fluorospark"
+"origin" "24 -4120 232"
+}
+// entity 572
+{
+"classname" "light_fluorospark"
+"origin" "24 -4184 232"
+}
+// entity 573
+{
+"classname" "light_fluorospark"
+"origin" "232 -4264 232"
+}
+// entity 574
+{
+"classname" "light_fluorospark"
+"origin" "104 -4120 232"
+}
+// entity 575
+{
+"classname" "light_fluorospark"
+"origin" "104 -4184 232"
+}
+// entity 576
+{
+"classname" "light_fluorospark"
+"origin" "-680 -4440 104"
+}
+// entity 577
+{
+"classname" "light_fluorospark"
+"origin" "-616 -4440 104"
+}
+// entity 578
+{
+"classname" "light_fluorospark"
+"origin" "-680 -4312 104"
+}
+// entity 579
+{
+"classname" "light_fluorospark"
+"origin" "-744 -4312 104"
+}
+// entity 580
+{
+"classname" "light_fluorospark"
+"origin" "-744 -4232 104"
+}
+// entity 581
+{
+"classname" "light_fluorospark"
+"origin" "-680 -4232 104"
+}
+// entity 582
+{
+"classname" "light_fluorospark"
+"origin" "-744 -4168 104"
+}
+// entity 583
+{
+"classname" "light_fluorospark"
+"origin" "-680 -4168 104"
+}
+// entity 584
+{
+"classname" "light_fluorospark"
+"origin" "-552 -4312 104"
+}
+// entity 585
+{
+"classname" "light_fluorospark"
+"origin" "-552 -4232 104"
+}
+// entity 586
+{
+"classname" "light_fluorospark"
+"origin" "-888 -4440 104"
+}
+// entity 587
+{
+"classname" "light_fluorospark"
+"origin" "-824 -4440 104"
+}
+// entity 588
+{
+"classname" "light_fluorospark"
+"origin" "-888 -4312 104"
+}
+// entity 589
+{
+"classname" "light_fluorospark"
+"origin" "-952 -4312 104"
+}
+// entity 590
+{
+"classname" "light_fluorospark"
+"origin" "-952 -4232 104"
+}
+// entity 591
+{
+"classname" "light_fluorospark"
+"origin" "-888 -4232 104"
+}
+// entity 592
+{
+"classname" "light_fluorospark"
+"origin" "-952 -4168 104"
+}
+// entity 593
+{
+"classname" "light_fluorospark"
+"origin" "-888 -4168 104"
+}
+// entity 594
+{
+"classname" "light_fluorospark"
+"origin" "-760 -4312 104"
+}
+// entity 595
+{
+"classname" "light_fluorospark"
+"origin" "-760 -4232 104"
+}
+// entity 596
+{
+"classname" "light_fluorospark"
+"origin" "-1128 -4440 104"
+}
+// entity 597
+{
+"classname" "light_fluorospark"
+"origin" "-1064 -4440 104"
+}
+// entity 598
+{
+"classname" "light_fluorospark"
+"origin" "-1128 -4312 104"
+}
+// entity 599
+{
+"classname" "light_fluorospark"
+"origin" "-1192 -4312 104"
+}
+// entity 600
+{
+"classname" "light_fluorospark"
+"origin" "-1192 -4232 104"
+}
+// entity 601
+{
+"classname" "light_fluorospark"
+"origin" "-1128 -4232 104"
+}
+// entity 602
+{
+"classname" "light_fluorospark"
+"origin" "-1192 -4168 104"
+}
+// entity 603
+{
+"classname" "light_fluorospark"
+"origin" "-1128 -4168 104"
+}
+// entity 604
+{
+"classname" "light_fluorospark"
+"origin" "-1000 -4312 104"
+}
+// entity 605
+{
+"classname" "light_fluorospark"
+"origin" "-1000 -4232 104"
+}
+// entity 606
+{
+"classname" "light_fluorospark"
+"origin" "-1400 -4440 104"
+}
+// entity 607
+{
+"classname" "light_fluorospark"
+"origin" "-1336 -4440 104"
+}
+// entity 608
+{
+"classname" "light_fluorospark"
+"origin" "-1400 -4312 104"
+}
+// entity 609
+{
+"classname" "light_fluorospark"
+"origin" "-1464 -4312 104"
+}
+// entity 610
+{
+"classname" "light_fluorospark"
+"origin" "-1464 -4232 104"
+}
+// entity 611
+{
+"classname" "light_fluorospark"
+"origin" "-1400 -4232 104"
+}
+// entity 612
+{
+"classname" "light_fluorospark"
+"origin" "-1464 -4168 104"
+}
+// entity 613
+{
+"classname" "light_fluorospark"
+"origin" "-1400 -4168 104"
+}
+// entity 614
+{
+"classname" "light_fluorospark"
+"origin" "-1272 -4312 104"
+}
+// entity 615
+{
+"classname" "light_fluorospark"
+"origin" "-1272 -4232 104"
+}
+// entity 616
+{
+"classname" "light_fluorospark"
+"origin" "-1352 -4568 104"
+}
+// entity 617
+{
+"classname" "light_fluorospark"
+"origin" "-1288 -4568 104"
+}
+// entity 618
+{
+"classname" "light_fluorospark"
+"origin" "-1352 -4440 104"
+}
+// entity 619
+{
+"classname" "light_fluorospark"
+"origin" "-1416 -4440 104"
+}
+// entity 620
+{
+"classname" "light_fluorospark"
+"origin" "-1416 -4360 104"
+}
+// entity 621
+{
+"classname" "light_fluorospark"
+"origin" "-1352 -4360 104"
+}
+// entity 622
+{
+"classname" "light_fluorospark"
+"origin" "-1416 -4296 104"
+}
+// entity 623
+{
+"classname" "light_fluorospark"
+"origin" "-1352 -4296 104"
+}
+// entity 624
+{
+"classname" "light_fluorospark"
+"origin" "-1224 -4440 104"
+}
+// entity 625
+{
+"classname" "light_fluorospark"
+"origin" "-1224 -4360 104"
+}
+// entity 626
+{
+"classname" "light_fluorospark"
+"origin" "-1688 -4520 104"
+}
+// entity 627
+{
+"classname" "light_fluorospark"
+"origin" "-1624 -4520 104"
+}
+// entity 628
+{
+"classname" "light_fluorospark"
+"origin" "-1688 -4392 104"
+}
+// entity 629
+{
+"classname" "light_fluorospark"
+"origin" "-1752 -4392 104"
+}
+// entity 630
+{
+"classname" "light_fluorospark"
+"origin" "-1752 -4312 104"
+}
+// entity 631
+{
+"classname" "light_fluorospark"
+"origin" "-1688 -4312 104"
+}
+// entity 632
+{
+"classname" "light_fluorospark"
+"origin" "-1752 -4248 104"
+}
+// entity 633
+{
+"classname" "light_fluorospark"
+"origin" "-1688 -4248 104"
+}
+// entity 634
+{
+"classname" "light_fluorospark"
+"origin" "-1560 -4392 104"
+}
+// entity 635
+{
+"classname" "light_fluorospark"
+"origin" "-1560 -4312 104"
+}
+// entity 636
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -4520 104"
+}
+// entity 637
+{
+"classname" "light_fluorospark"
+"origin" "-1864 -4520 104"
+}
+// entity 638
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -4392 104"
+}
+// entity 639
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -4392 104"
+}
+// entity 640
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -4312 104"
+}
+// entity 641
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -4312 104"
+}
+// entity 642
+{
+"classname" "light_fluorospark"
+"origin" "-1992 -4248 104"
+}
+// entity 643
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -4248 104"
+}
+// entity 644
+{
+"classname" "light_fluorospark"
+"origin" "-1800 -4392 104"
+}
+// entity 645
+{
+"classname" "light_fluorospark"
+"origin" "-1800 -4312 104"
+}
+// entity 646
+{
+"classname" "light_fluorospark"
+"origin" "-2040 -3960 200"
+}
+// entity 647
+{
+"classname" "light_fluorospark"
+"origin" "-2008 -3960 200"
+}
+// entity 648
+{
+"classname" "light_fluorospark"
+"origin" "-1944 -3960 200"
+}
+// entity 649
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3960 200"
+}
+// entity 650
+{
+"classname" "light_fluorospark"
+"origin" "-2040 -3960 200"
+}
+// entity 651
+{
+"classname" "light_fluorospark"
+"origin" "-2008 -3960 200"
+}
+// entity 652
+{
+"classname" "light_fluorospark"
+"origin" "-1944 -3960 200"
+}
+// entity 653
+{
+"classname" "light_fluorospark"
+"origin" "-2104 -3960 200"
+}
+// entity 654
+{
+"classname" "light_fluorospark"
+"origin" "-2024 -3768 200"
+}
+// entity 655
+{
+"classname" "light_fluorospark"
+"origin" "-1976 -3768 200"
+}
+// entity 656
+{
+"classname" "light_fluorospark"
+"origin" "-1928 -3768 200"
+}
+// entity 657
+{
+"classname" "light_fluorospark"
+"origin" "-2088 -3768 200"
 }
