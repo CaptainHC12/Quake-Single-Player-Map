@@ -839,3 +839,33 @@
 "classname" "info_intermission"
 "origin" "-1016 -6184 24"
 }
+// entity 51
+{
+"classname" "light_fluorospark"
+"origin" "-360 -2200 104"
+}
+// entity 52
+{
+"classname" "light_fluorospark"
+"origin" "-488 -2200 104"
+}
+// entity 53
+{
+"classname" "light_fluorospark"
+"origin" "-488 -2296 104"
+}
+// entity 54
+{
+"classname" "light_fluorospark"
+"origin" "-360 -2296 104"
+}
+// entity 55
+{
+"classname" "light_fluorospark"
+"origin" "-360 -2440 104"
+}
+// entity 56
+{
+"classname" "light_fluorospark"
+"origin" "-488 -2440 104"
+}
